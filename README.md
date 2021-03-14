@@ -3,6 +3,7 @@ near-app-default-react
 
 This [React] app was initialized with [create-near-app]
 
+You find an accompanying blog [here](https://rasor.github.io/testing-templates-from-near-blockchain.html)
 
 Quick Start
 ===========
